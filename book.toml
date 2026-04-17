@@ -1,0 +1,31 @@
+[book]
+title = "Truly Grokking Unicode"
+authors = ["David Liedle"]
+language = "en"
+src = "src"
+multilingual = false
+
+[output.html]
+default-theme = "light"
+preferred-dark-theme = "navy"
+git-repository-url = "https://github.com/cloudstreet-dev/Truly-Grokking-Unicode"
+edit-url-template = "https://github.com/cloudstreet-dev/Truly-Grokking-Unicode/edit/main/{path}"
+additional-css = []
+
+[output.html.search]
+enable = true
+limit-results = 30
+teaser-word-count = 30
+use-boolean-and = true
+boost-title = 2
+boost-hierarchy = 1
+boost-paragraph = 1
+expand = true
+heading-split-level = 3
+
+[output.html.playground]
+editable = false
+
+[preprocessor.index]
+
+[preprocessor.links]
