@@ -2,7 +2,7 @@
 
 Code points, code units, bytes. A patient tour of the text encoding system every programmer has been bitten by and few actually understand.
 
-**Read the book:** _(live URL appears here after the first deploy)_
+**Read the book:** <https://cloudstreet-dev.github.io/Truly-Grokking-Unicode/>
 
 ## Why this book
 
